@@ -8,6 +8,7 @@
 
 ## Disclaimer
 `Educational Purposes Only`<br>
+`Astraa & I are not responsible for any damage`
 `I (LuyaTools/Blizz) dont own this tool. It fully belongs to Astraa`<br>
 `https://github.com/AstraaDev/`
 
